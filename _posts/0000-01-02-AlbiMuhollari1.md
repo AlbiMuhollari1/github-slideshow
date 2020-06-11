@@ -2,5 +2,8 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+cout<<"First try"<<endl;
 Use the left arrow to go back!
+
+cout<<"Albi Muhollari"<<endl<<endl;
+
